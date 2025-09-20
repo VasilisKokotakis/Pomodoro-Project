@@ -25,7 +25,7 @@ Because nothing says *"I’m focused"* like a tomato keeping track of your time.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/your-username/Pomodoro-Project.git
    ```
 2. Make sure you have Python 3 installed.
 3. Run it:
