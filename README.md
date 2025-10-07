@@ -1,22 +1,20 @@
+# 🎨 Modern Mini Paint App
+
+Unleash your creativity with this **Modern Paint App** built in Python using **Tkinter** and **Pillow**.
+A clean, minimal design that lets you focus on drawing, not on fighting the UI.
+
+Because sometimes all you need is a blank canvas and a little inspiration. ✏️
+
 ---
 
-# ⏰ Pomodoro Timer
+## 🌈 Features
 
-Boost your productivity with this simple yet stylish **Pomodoro Timer** built in Python with **Tkinter** 🍅.
-
-Because nothing says *"I’m focused"* like a tomato keeping track of your time.
-
----
-
-## 🎯 Features
-
-* ✅ **25 min Work Sessions** to get stuff done
-* ☕ **5 min Short Breaks** to stretch or grab coffee
-* 🛑 **20 min Long Breaks** after 4 work sessions
-* 🔄 **Reset Button** for when life (or your cat) interrupts
-* ✔️ **Checkmarks** to keep track of your progress
-* 🍅 A big tomato reminding you who’s boss
-
+* 🖌️ **Smooth Drawing** with adjustable brush size
+* 🎨 **Color Palette** with vibrant flat tones
+* 🧹 **Clear Canvas** in one click
+* 💾 **Save Artwork** as PNG directly from the app
+* 👁️ **Live Brush Preview** and status bar
+* 🧑‍💻 **Modern Flat UI** using `ttk` styling
 
 ---
 
@@ -25,47 +23,50 @@ Because nothing says *"I’m focused"* like a tomato keeping track of your time.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/VasilisKokotakis/Pomodoro-Project.git
+   git clone https://github.com/VasilisKokotakis/Mini-Paint-App.git
    ```
-2. Make sure you have Python 3 installed.
-3. Run it:
+2. Make sure you have **Python 3** installed.
+3. Install the required library:
+
+   ```bash
+   pip install pillow
+   ```
+4. Run the app:
 
    ```bash
    python main.py
    ```
-4. Don’t forget to keep `tomato.png` in the same folder 🍅
+
+That’s it — your digital canvas is ready! 🖼️
 
 ---
 
 ## 📦 Requirements
 
-* Python 3.x
-* Tkinter (usually comes pre-installed with Python)
+* **Python 3.x**
+* **Tkinter** (comes pre-installed with Python)
+* **Pillow** (`pip install pillow`)
 
 ---
 
-## 🤓 Why Pomodoro?
+## 🧠 How It Works
 
-The **Pomodoro Technique** is a time management method where you:
-
-1. Work for 25 minutes
-2. Take a 5-minute break
-3. Repeat 4 times, then take a longer 20-minute break
-
-Perfect for beating procrastination and avoiding burnout.
+This app uses the **Tkinter Canvas widget** for freehand drawing.
+Mouse movements are tracked to draw smooth lines, and `Pillow`’s `ImageGrab` is used to **save your drawings as PNG**.
 
 ---
 
 ## 🚀 Future Ideas
 
-* 🔊 Add ticking sounds or break alerts
-* 🌙 Dark mode for late-night coding
-* 📈 Stats dashboard to see how productive you really are
+* 🌙 Dark Mode
+* 🪶 Custom brush shapes
+* 🖼️ Image import & background layers
+* ✏️ Undo/Redo functionality
+* 🎧 Sound or haptic feedback while drawing
 
 ---
 
-## 👨‍💻 Author
+## 👨‍🎨 Author
 
-Made with ❤️ and too much coffee by **Vasileios**.
-
----
+Created with ❤️ and a splash of creativity by **Vasileios**.
+Perfect for doodling, sketching, and digital relaxation.
