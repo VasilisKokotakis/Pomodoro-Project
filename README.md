@@ -8,12 +8,12 @@ Because nothing says *"I’m focused"* like a tomato keeping track of your time.
 
 ## Features
 
-* ✅ **25 min Work Sessions** to get stuff done
-* ☕ **5 min Short Breaks** to stretch or grab coffee
-* 🛑 **20 min Long Breaks** after 4 work sessions
-* 🔄 **Reset Button** for when life (or your cat) interrupts
-* ✔️ **Checkmarks** to keep track of your progress
-* 🍅 A big tomato reminding you who’s boss
+*  **25 min Work Sessions** to get stuff done
+*  **5 min Short Breaks** to stretch or grab coffee
+*  **20 min Long Breaks** after 4 work sessions
+*  **Reset Button** for when life (or your cat) interrupts
+*  **Checkmarks** to keep track of your progress
+*  A big tomato reminding you who’s boss
 
 ---
 
@@ -36,7 +36,7 @@ Because nothing says *"I’m focused"* like a tomato keeping track of your time.
    ```bash
    python main.py
    ```
-4. Don’t forget to keep `tomato.png` in the same folder 🍅
+4. Don’t forget to keep `tomato.png` in the same folder 
 
 ---
 
@@ -61,13 +61,13 @@ Perfect for beating procrastination and avoiding burnout.
 
 ## Future Ideas
 
-* 🔊 Add ticking sounds or break alerts
-* 🌙 Dark mode for late-night coding
-* 📈 Stats dashboard to see how productive you really are
+*  Add ticking sounds or break alerts
+*  Dark mode for late-night coding
+*  Stats dashboard to see how productive you really are
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Made with ❤️ and too much coffee by **Vasileios**.
 
